@@ -16,6 +16,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //Tường Khang sửa file
+//Tuong Khang sua file again
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
