@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//Tường Khang sửa file
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
